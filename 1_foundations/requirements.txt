@@ -1,6 +1,5 @@
-requests
-python-dotenv
-gradio
+groq
+gradio>=4.44.0
 pypdf
-openai
-openai-agents
+python-dotenv
+requests
